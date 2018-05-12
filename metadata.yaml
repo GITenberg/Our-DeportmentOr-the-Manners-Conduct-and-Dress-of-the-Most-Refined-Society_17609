@@ -1,0 +1,26 @@
+_repo: Our-DeportmentOr-the-Manners-Conduct-and-Dress-of-the-Most-Refined-Society_17609
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Young, John H.
+    gutenberg_agent_id: '43664'
+    url: http://www.gutenberg.org/2009/agents/43664
+description: ''
+gutenberg_issued: '2006-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Etiquette'
+title: 'Our Deportment
+
+  Or the Manners, Conduct and Dress of the Most Refined Society'
+url: http://www.gutenberg.org/ebooks/17609
